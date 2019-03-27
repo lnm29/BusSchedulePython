@@ -1,2 +1,2 @@
-# Bus Schedule Python Work
+# Bus Schedule Retriever (Python)
 Previous Python Work from College (Data Science)
