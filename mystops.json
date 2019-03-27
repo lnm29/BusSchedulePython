@@ -1,0 +1,284 @@
+[
+    {
+        "rt": "20",
+        "dir": "INBOUND",
+        "stops": [
+            {
+                "stpid": "4572",
+                "stpnm": "Blvd of the Allies at Post Gazette Bldg"
+            },
+            {
+                "stpid": "22562",
+                "stpnm": "CHARTIERS AVE AT CRAWFORD ST"
+            },
+            {
+                "stpid": "3609",
+                "stpnm": "Chartiers Ave Ext at Howard St"
+            },
+            {
+                "stpid": "3611",
+                "stpnm": "Chartiers Ave Ext opp #1536"
+            },
+            {
+                "stpid": "3613",
+                "stpnm": "Chartiers Ave Ext opp Owen St"
+            },
+            {
+                "stpid": "3612",
+                "stpnm": "Chartiers Ave Ext opp State St"
+            },
+            {
+                "stpid": "2247",
+                "stpnm": "Chartiers Ave at Eat N Park"
+            },
+            {
+                "stpid": "3617",
+                "stpnm": "Chartiers Ave opp Amelia St"
+            },
+            {
+                "stpid": "20831",
+                "stpnm": "Chartiers Ave opp Island Ave (nearside)"
+            },
+            {
+                "stpid": "3629",
+                "stpnm": "Chartiers Ave opp Margaret St"
+            },
+            {
+                "stpid": "18785",
+                "stpnm": "Chartiers Ave past Singer Ave"
+            },
+            {
+                "stpid": "3615",
+                "stpnm": "Chartiers Ave ta #1241 (opp VFW)"
+            },
+            {
+                "stpid": "21632",
+                "stpnm": "Coraoplis Rd at #338"
+            },
+            {
+                "stpid": "3430",
+                "stpnm": "Coraopolis Rd at #28"
+            },
+            {
+                "stpid": "21524",
+                "stpnm": "Coraopolis Rd at #285"
+            },
+            {
+                "stpid": "21520",
+                "stpnm": "Coraopolis Rd at #298"
+            },
+            {
+                "stpid": "2287",
+                "stpnm": "Coraopolis Rd at #333"
+            },
+            {
+                "stpid": "3429",
+                "stpnm": "Coraopolis Rd at Dorothy St"
+            },
+            {
+                "stpid": "2292",
+                "stpnm": "Coraopolis Rd at Herbst Rd"
+            },
+            {
+                "stpid": "3436",
+                "stpnm": "Coraopolis Rd at Hwy Rt 51"
+            },
+            {
+                "stpid": "3434",
+                "stpnm": "Coraopolis Rd at Long Valley Dr"
+            },
+            {
+                "stpid": "3431",
+                "stpnm": "Coraopolis Rd at Porter Hollow Rd"
+            },
+            {
+                "stpid": "3432",
+                "stpnm": "Coraopolis Rd opp Ehle Ave"
+            },
+            {
+                "stpid": "2401",
+                "stpnm": "Coraopolis Rd opp Herbst Rd"
+            },
+            {
+                "stpid": "3511",
+                "stpnm": "Fairhaven Rd at #59"
+            },
+            {
+                "stpid": "3513",
+                "stpnm": "Fairhaven Rd at Kenmawr Plaza Entrance (Shelter)"
+            },
+            {
+                "stpid": "3503",
+                "stpnm": "Forest Grove Rd at #1764 (Plaza)"
+            },
+            {
+                "stpid": "3454",
+                "stpnm": "Forest Grove Rd at #324 (Flamingo Landscape)"
+            },
+            {
+                "stpid": "3428",
+                "stpnm": "Forest Grove Rd at Coraopolis Rd"
+            },
+            {
+                "stpid": "3455",
+                "stpnm": "Forest Grove Rd at Diebold Rd"
+            },
+            {
+                "stpid": "3458",
+                "stpnm": "Forest Grove Rd at Fairhaven Rd"
+            },
+            {
+                "stpid": "3456",
+                "stpnm": "Forest Grove Rd at Midway Dr"
+            },
+            {
+                "stpid": "3453",
+                "stpnm": "Forest Grove Rd at Speer Dr"
+            },
+            {
+                "stpid": "3505",
+                "stpnm": "Forest Grove Rd at St Malachy Church"
+            },
+            {
+                "stpid": "3504",
+                "stpnm": "Forest Grove Rd opp Midway Dr"
+            },
+            {
+                "stpid": "3508",
+                "stpnm": "Heckle Rd opp Ohio Valley Hospital Entrance"
+            },
+            {
+                "stpid": "3507",
+                "stpnm": "Heckle Rd past Shop N Save"
+            },
+            {
+                "stpid": "3439",
+                "stpnm": "Herbst Rd at #225"
+            },
+            {
+                "stpid": "3438",
+                "stpnm": "Herbst Rd at #235"
+            },
+            {
+                "stpid": "15992",
+                "stpnm": "Herbst Rd at Bostian Dr"
+            },
+            {
+                "stpid": "3443",
+                "stpnm": "Herbst Rd at Downs Dr"
+            },
+            {
+                "stpid": "3452",
+                "stpnm": "Herbst Rd at Forest Grove Rd"
+            },
+            {
+                "stpid": "21116",
+                "stpnm": "Herbst Rd at Herbst Manor Rd"
+            },
+            {
+                "stpid": "3447",
+                "stpnm": "Herbst Rd at Mary St"
+            },
+            {
+                "stpid": "3445",
+                "stpnm": "Herbst Rd at Vigne Rd"
+            },
+            {
+                "stpid": "22419",
+                "stpnm": "Herbst Rd opp Agnes St"
+            },
+            {
+                "stpid": "3448",
+                "stpnm": "Herbst Rd opp Grant St"
+            },
+            {
+                "stpid": "3441",
+                "stpnm": "Herbst Rd opp Jenny Ln"
+            },
+            {
+                "stpid": "18783",
+                "stpnm": "Herbst Rd past Rose Ave"
+            },
+            {
+                "stpid": "2400",
+                "stpnm": "Hwy Rt 51 at Edgetown Apts"
+            },
+            {
+                "stpid": "2399",
+                "stpnm": "Hwy Rt 51 at Stanford Ct"
+            },
+            {
+                "stpid": "3479",
+                "stpnm": "Kennedy Center (Giant Eagle)"
+            },
+            {
+                "stpid": "21523",
+                "stpnm": "Lewis Ave at #1236 "
+            },
+            {
+                "stpid": "22561",
+                "stpnm": "PINE HOLLOW RD AT #1806"
+            },
+            {
+                "stpid": "3673",
+                "stpnm": "PINE HOLLOW RD AT KENMAWR PLAZA DRVWY"
+            },
+            {
+                "stpid": "22560",
+                "stpnm": "PINE HOLLOW RD AT LAB CORP SQUARE"
+            },
+            {
+                "stpid": "2249",
+                "stpnm": "Stanhope St at W.Carson"
+            },
+            {
+                "stpid": "18764",
+                "stpnm": "Stanhope St past Chartiers Ave"
+            },
+            {
+                "stpid": "2261",
+                "stpnm": "Stanwix St at Fourth Ave"
+            },
+            {
+                "stpid": "19514",
+                "stpnm": "Stanwix St past Penn Ave"
+            },
+            {
+                "stpid": "2299",
+                "stpnm": "Village Dr at Lewis Ave"
+            },
+            {
+                "stpid": "21521",
+                "stpnm": "Village Dr opp Groveton Dr"
+            },
+            {
+                "stpid": "2260",
+                "stpnm": "W. Carson St at Duquesne Incline"
+            },
+            {
+                "stpid": "2258",
+                "stpnm": "W. Carson St opp Gateway View Plaza"
+            },
+            {
+                "stpid": "22397",
+                "stpnm": "W. Carson at Corliss Tunnel (nearside)"
+            },
+            {
+                "stpid": "2252",
+                "stpnm": "W. Carson at Earl St"
+            },
+            {
+                "stpid": "2255",
+                "stpnm": "W. Carson at Glenmawr Ave"
+            },
+            {
+                "stpid": "2251",
+                "stpnm": "W. Carson at Saginaw St"
+            },
+            {
+                "stpid": "2250",
+                "stpnm": "W. Carson at Tabor St"
+            }
+        ]
+    }
+]

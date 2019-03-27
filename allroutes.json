@@ -1,0 +1,390 @@
+[
+    {
+        "rt": "1",
+        "rtnm": "FREEPORT ROAD"
+    },
+    {
+        "rt": "11",
+        "rtnm": "FINEVIEW"
+    },
+    {
+        "rt": "12",
+        "rtnm": "MCKNIGHT"
+    },
+    {
+        "rt": "13",
+        "rtnm": "BELLEVUE"
+    },
+    {
+        "rt": "14",
+        "rtnm": "OHIO VALLEY"
+    },
+    {
+        "rt": "15",
+        "rtnm": "CHARLES"
+    },
+    {
+        "rt": "16",
+        "rtnm": "BRIGHTON"
+    },
+    {
+        "rt": "17",
+        "rtnm": "SHADELAND"
+    },
+    {
+        "rt": "18",
+        "rtnm": "MANCHESTER"
+    },
+    {
+        "rt": "19L",
+        "rtnm": "EMSWORTH LIMITED"
+    },
+    {
+        "rt": "2",
+        "rtnm": "MOUNT ROYAL"
+    },
+    {
+        "rt": "20",
+        "rtnm": "KENNEDY"
+    },
+    {
+        "rt": "21",
+        "rtnm": "CORAOPOLIS"
+    },
+    {
+        "rt": "22",
+        "rtnm": "MCCOY"
+    },
+    {
+        "rt": "24",
+        "rtnm": "WEST PARK"
+    },
+    {
+        "rt": "26",
+        "rtnm": "CHARTIERS"
+    },
+    {
+        "rt": "27",
+        "rtnm": "FAIRYWOOD"
+    },
+    {
+        "rt": "28X",
+        "rtnm": "AIRPORT FLYER"
+    },
+    {
+        "rt": "29",
+        "rtnm": "ROBINSON"
+    },
+    {
+        "rt": "31",
+        "rtnm": "BRIDGEVILLE"
+    },
+    {
+        "rt": "36",
+        "rtnm": "BANKSVILLE"
+    },
+    {
+        "rt": "38",
+        "rtnm": "GREEN TREE"
+    },
+    {
+        "rt": "39",
+        "rtnm": "BROOKLINE"
+    },
+    {
+        "rt": "4",
+        "rtnm": "TROY HILL"
+    },
+    {
+        "rt": "40",
+        "rtnm": "MOUNT WASHINGTON"
+    },
+    {
+        "rt": "41",
+        "rtnm": "BOWER HILL"
+    },
+    {
+        "rt": "43",
+        "rtnm": "BAILEY"
+    },
+    {
+        "rt": "44",
+        "rtnm": "VIA KNOXVILLE"
+    },
+    {
+        "rt": "48",
+        "rtnm": "ARLINGTON"
+    },
+    {
+        "rt": "51",
+        "rtnm": "CARRICK"
+    },
+    {
+        "rt": "51L",
+        "rtnm": "CARRICK LIMITED"
+    },
+    {
+        "rt": "52L",
+        "rtnm": "HOMEVILLE LIMITED"
+    },
+    {
+        "rt": "53",
+        "rtnm": "HOMESTEAD PARK"
+    },
+    {
+        "rt": "53L",
+        "rtnm": "HOMESTEAD PARK LIMITED"
+    },
+    {
+        "rt": "54",
+        "rtnm": "NORTH SIDE-OAKLAND-SOUTH SIDE"
+    },
+    {
+        "rt": "55",
+        "rtnm": "GLASSPORT"
+    },
+    {
+        "rt": "56",
+        "rtnm": "LINCOLN PLACE"
+    },
+    {
+        "rt": "57",
+        "rtnm": "HAZELWOOD"
+    },
+    {
+        "rt": "58",
+        "rtnm": "GREENFIELD"
+    },
+    {
+        "rt": "59",
+        "rtnm": "MON VALLEY"
+    },
+    {
+        "rt": "6",
+        "rtnm": "SPRING HILL"
+    },
+    {
+        "rt": "60",
+        "rtnm": "MCKEESPORT - WALNUT"
+    },
+    {
+        "rt": "61A",
+        "rtnm": "NORTH BRADDOCK"
+    },
+    {
+        "rt": "61B",
+        "rtnm": "BRADDOCK-SWISSVALE"
+    },
+    {
+        "rt": "61C",
+        "rtnm": "MCKEESPORT-HOMESTEAD"
+    },
+    {
+        "rt": "61D",
+        "rtnm": "MURRAY"
+    },
+    {
+        "rt": "64",
+        "rtnm": "LAWRENCEVILLE - WATERFRONT"
+    },
+    {
+        "rt": "65",
+        "rtnm": "SQUIRREL HILL"
+    },
+    {
+        "rt": "67",
+        "rtnm": "MONROEVILLE"
+    },
+    {
+        "rt": "68",
+        "rtnm": "BRADDOCK HILLS"
+    },
+    {
+        "rt": "69",
+        "rtnm": "TRAFFORD"
+    },
+    {
+        "rt": "7",
+        "rtnm": "SPRING GARDEN"
+    },
+    {
+        "rt": "71",
+        "rtnm": "EDGEWOOD TOWN CENTER"
+    },
+    {
+        "rt": "71A",
+        "rtnm": "NEGLEY"
+    },
+    {
+        "rt": "71B",
+        "rtnm": "HIGHLAND PARK"
+    },
+    {
+        "rt": "71C",
+        "rtnm": "POINT BREEZE"
+    },
+    {
+        "rt": "71D",
+        "rtnm": "HAMILTON"
+    },
+    {
+        "rt": "74",
+        "rtnm": "HOMEWOOD-SQUIRREL HILL"
+    },
+    {
+        "rt": "75",
+        "rtnm": "ELLSWORTH"
+    },
+    {
+        "rt": "77",
+        "rtnm": "PENN HILLS"
+    },
+    {
+        "rt": "79",
+        "rtnm": "EAST HILLS"
+    },
+    {
+        "rt": "8",
+        "rtnm": "PERRYSVILLE"
+    },
+    {
+        "rt": "81",
+        "rtnm": "OAK HILL"
+    },
+    {
+        "rt": "82",
+        "rtnm": "LINCOLN"
+    },
+    {
+        "rt": "83",
+        "rtnm": "BEDFORD HILL"
+    },
+    {
+        "rt": "86",
+        "rtnm": "LIBERTY"
+    },
+    {
+        "rt": "87",
+        "rtnm": "FRIENDSHIP"
+    },
+    {
+        "rt": "88",
+        "rtnm": "PENN"
+    },
+    {
+        "rt": "89",
+        "rtnm": "GARFIELD COMMONS"
+    },
+    {
+        "rt": "91",
+        "rtnm": "BUTLER STREET"
+    },
+    {
+        "rt": "93",
+        "rtnm": "LAWRENCEVILLE - HAZELWOOD"
+    },
+    {
+        "rt": "G2",
+        "rtnm": "WEST BUSWAY"
+    },
+    {
+        "rt": "G3",
+        "rtnm": "MOON FLYER"
+    },
+    {
+        "rt": "G31",
+        "rtnm": "BRIDGEVILLE FLYER"
+    },
+    {
+        "rt": "O1",
+        "rtnm": "ROSS FLYER"
+    },
+    {
+        "rt": "O12",
+        "rtnm": "MCKNIGHT FLYER"
+    },
+    {
+        "rt": "O5",
+        "rtnm": "THOMPSON RUN FLYER VIA 279"
+    },
+    {
+        "rt": "P1",
+        "rtnm": "EAST BUSWAY-ALL STOPS"
+    },
+    {
+        "rt": "P10",
+        "rtnm": "ALLEGHENY VALLEY FLYER"
+    },
+    {
+        "rt": "P12",
+        "rtnm": "HOLIDAY PARK FLYER"
+    },
+    {
+        "rt": "P13",
+        "rtnm": "MOUNT ROYAL FLYER"
+    },
+    {
+        "rt": "P16",
+        "rtnm": "PENN HILLS FLYER"
+    },
+    {
+        "rt": "P17",
+        "rtnm": "LINCOLN PARK FLYER"
+    },
+    {
+        "rt": "P2",
+        "rtnm": "EAST BUSWAY SHORT"
+    },
+    {
+        "rt": "P3",
+        "rtnm": "EAST BUSWAY-OAKLAND"
+    },
+    {
+        "rt": "P67",
+        "rtnm": "MONROEVILLE FLYER"
+    },
+    {
+        "rt": "P68",
+        "rtnm": "BRADDOCK HILLS FLYER"
+    },
+    {
+        "rt": "P69",
+        "rtnm": "TRAFFORD FLYER"
+    },
+    {
+        "rt": "P7",
+        "rtnm": "MCKEESPORT FLYER"
+    },
+    {
+        "rt": "P71",
+        "rtnm": "SWISSVALE FLYER"
+    },
+    {
+        "rt": "P76",
+        "rtnm": "LINCOLN HIGHWAY FLYER"
+    },
+    {
+        "rt": "P78",
+        "rtnm": "OAKMONT FLYER"
+    },
+    {
+        "rt": "Y1",
+        "rtnm": "LARGE FLYER"
+    },
+    {
+        "rt": "Y45",
+        "rtnm": "BALDWIN MANOR FLYER"
+    },
+    {
+        "rt": "Y46",
+        "rtnm": "ELIZABETH FLYER"
+    },
+    {
+        "rt": "Y47",
+        "rtnm": "CURRY FLYER"
+    },
+    {
+        "rt": "Y49",
+        "rtnm": "PROSPECT FLYER"
+    }
+]

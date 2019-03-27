@@ -1,0 +1,972 @@
+[
+    {
+        "rt": "1",
+        "rtnm": "FREEPORT ROAD",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "1",
+        "rtnm": "FREEPORT ROAD",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "11",
+        "rtnm": "FINEVIEW",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "11",
+        "rtnm": "FINEVIEW",
+        "dir": "LOOP"
+    },
+    {
+        "rt": "12",
+        "rtnm": "MCKNIGHT",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "12",
+        "rtnm": "MCKNIGHT",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "13",
+        "rtnm": "BELLEVUE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "13",
+        "rtnm": "BELLEVUE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "14",
+        "rtnm": "OHIO VALLEY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "14",
+        "rtnm": "OHIO VALLEY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "15",
+        "rtnm": "CHARLES",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "15",
+        "rtnm": "CHARLES",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "16",
+        "rtnm": "BRIGHTON",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "16",
+        "rtnm": "BRIGHTON",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "17",
+        "rtnm": "SHADELAND",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "17",
+        "rtnm": "SHADELAND",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "18",
+        "rtnm": "MANCHESTER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "18",
+        "rtnm": "MANCHESTER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "19L",
+        "rtnm": "EMSWORTH LIMITED",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "19L",
+        "rtnm": "EMSWORTH LIMITED",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "2",
+        "rtnm": "MOUNT ROYAL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "2",
+        "rtnm": "MOUNT ROYAL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "20",
+        "rtnm": "KENNEDY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "20",
+        "rtnm": "KENNEDY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "21",
+        "rtnm": "CORAOPOLIS",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "21",
+        "rtnm": "CORAOPOLIS",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "22",
+        "rtnm": "MCCOY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "22",
+        "rtnm": "MCCOY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "24",
+        "rtnm": "WEST PARK",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "24",
+        "rtnm": "WEST PARK",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "26",
+        "rtnm": "CHARTIERS",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "26",
+        "rtnm": "CHARTIERS",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "27",
+        "rtnm": "FAIRYWOOD",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "27",
+        "rtnm": "FAIRYWOOD",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "28X",
+        "rtnm": "AIRPORT FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "28X",
+        "rtnm": "AIRPORT FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "29",
+        "rtnm": "ROBINSON",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "29",
+        "rtnm": "ROBINSON",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "31",
+        "rtnm": "BRIDGEVILLE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "31",
+        "rtnm": "BRIDGEVILLE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "36",
+        "rtnm": "BANKSVILLE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "36",
+        "rtnm": "BANKSVILLE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "38",
+        "rtnm": "GREEN TREE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "38",
+        "rtnm": "GREEN TREE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "39",
+        "rtnm": "BROOKLINE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "39",
+        "rtnm": "BROOKLINE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "4",
+        "rtnm": "TROY HILL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "4",
+        "rtnm": "TROY HILL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "40",
+        "rtnm": "MOUNT WASHINGTON",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "40",
+        "rtnm": "MOUNT WASHINGTON",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "41",
+        "rtnm": "BOWER HILL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "41",
+        "rtnm": "BOWER HILL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "43",
+        "rtnm": "BAILEY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "43",
+        "rtnm": "BAILEY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "44",
+        "rtnm": "VIA KNOXVILLE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "44",
+        "rtnm": "VIA KNOXVILLE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "48",
+        "rtnm": "ARLINGTON",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "48",
+        "rtnm": "ARLINGTON",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "51",
+        "rtnm": "CARRICK",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "51",
+        "rtnm": "CARRICK",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "51L",
+        "rtnm": "CARRICK LIMITED",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "51L",
+        "rtnm": "CARRICK LIMITED",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "52L",
+        "rtnm": "HOMEVILLE LIMITED",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "52L",
+        "rtnm": "HOMEVILLE LIMITED",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "53",
+        "rtnm": "HOMESTEAD PARK",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "53",
+        "rtnm": "HOMESTEAD PARK",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "53L",
+        "rtnm": "HOMESTEAD PARK LIMITED",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "53L",
+        "rtnm": "HOMESTEAD PARK LIMITED",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "54",
+        "rtnm": "NORTH SIDE-OAKLAND-SOUTH SIDE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "54",
+        "rtnm": "NORTH SIDE-OAKLAND-SOUTH SIDE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "55",
+        "rtnm": "GLASSPORT",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "55",
+        "rtnm": "GLASSPORT",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "56",
+        "rtnm": "LINCOLN PLACE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "56",
+        "rtnm": "LINCOLN PLACE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "57",
+        "rtnm": "HAZELWOOD",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "57",
+        "rtnm": "HAZELWOOD",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "58",
+        "rtnm": "GREENFIELD",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "58",
+        "rtnm": "GREENFIELD",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "59",
+        "rtnm": "MON VALLEY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "59",
+        "rtnm": "MON VALLEY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "6",
+        "rtnm": "SPRING HILL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "6",
+        "rtnm": "SPRING HILL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "60",
+        "rtnm": "MCKEESPORT - WALNUT",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "60",
+        "rtnm": "MCKEESPORT - WALNUT",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "61A",
+        "rtnm": "NORTH BRADDOCK",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "61A",
+        "rtnm": "NORTH BRADDOCK",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "61B",
+        "rtnm": "BRADDOCK-SWISSVALE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "61B",
+        "rtnm": "BRADDOCK-SWISSVALE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "61C",
+        "rtnm": "MCKEESPORT-HOMESTEAD",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "61C",
+        "rtnm": "MCKEESPORT-HOMESTEAD",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "61D",
+        "rtnm": "MURRAY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "61D",
+        "rtnm": "MURRAY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "64",
+        "rtnm": "LAWRENCEVILLE - WATERFRONT",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "64",
+        "rtnm": "LAWRENCEVILLE - WATERFRONT",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "65",
+        "rtnm": "SQUIRREL HILL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "65",
+        "rtnm": "SQUIRREL HILL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "67",
+        "rtnm": "MONROEVILLE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "67",
+        "rtnm": "MONROEVILLE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "68",
+        "rtnm": "BRADDOCK HILLS",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "68",
+        "rtnm": "BRADDOCK HILLS",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "69",
+        "rtnm": "TRAFFORD",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "69",
+        "rtnm": "TRAFFORD",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "7",
+        "rtnm": "SPRING GARDEN",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "7",
+        "rtnm": "SPRING GARDEN",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "71",
+        "rtnm": "EDGEWOOD TOWN CENTER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "71",
+        "rtnm": "EDGEWOOD TOWN CENTER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "71A",
+        "rtnm": "NEGLEY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "71A",
+        "rtnm": "NEGLEY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "71B",
+        "rtnm": "HIGHLAND PARK",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "71B",
+        "rtnm": "HIGHLAND PARK",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "71C",
+        "rtnm": "POINT BREEZE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "71C",
+        "rtnm": "POINT BREEZE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "71D",
+        "rtnm": "HAMILTON",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "71D",
+        "rtnm": "HAMILTON",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "74",
+        "rtnm": "HOMEWOOD-SQUIRREL HILL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "74",
+        "rtnm": "HOMEWOOD-SQUIRREL HILL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "75",
+        "rtnm": "ELLSWORTH",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "75",
+        "rtnm": "ELLSWORTH",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "77",
+        "rtnm": "PENN HILLS",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "77",
+        "rtnm": "PENN HILLS",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "79",
+        "rtnm": "EAST HILLS",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "79",
+        "rtnm": "EAST HILLS",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "8",
+        "rtnm": "PERRYSVILLE",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "8",
+        "rtnm": "PERRYSVILLE",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "81",
+        "rtnm": "OAK HILL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "81",
+        "rtnm": "OAK HILL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "82",
+        "rtnm": "LINCOLN",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "82",
+        "rtnm": "LINCOLN",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "83",
+        "rtnm": "BEDFORD HILL",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "83",
+        "rtnm": "BEDFORD HILL",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "86",
+        "rtnm": "LIBERTY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "86",
+        "rtnm": "LIBERTY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "87",
+        "rtnm": "FRIENDSHIP",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "87",
+        "rtnm": "FRIENDSHIP",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "88",
+        "rtnm": "PENN",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "88",
+        "rtnm": "PENN",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "89",
+        "rtnm": "GARFIELD COMMONS",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "89",
+        "rtnm": "GARFIELD COMMONS",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "91",
+        "rtnm": "BUTLER STREET",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "91",
+        "rtnm": "BUTLER STREET",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "93",
+        "rtnm": "LAWRENCEVILLE - HAZELWOOD",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "93",
+        "rtnm": "LAWRENCEVILLE - HAZELWOOD",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "G2",
+        "rtnm": "WEST BUSWAY",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "G2",
+        "rtnm": "WEST BUSWAY",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "G3",
+        "rtnm": "MOON FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "G3",
+        "rtnm": "MOON FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "G31",
+        "rtnm": "BRIDGEVILLE FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "G31",
+        "rtnm": "BRIDGEVILLE FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "O1",
+        "rtnm": "ROSS FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "O1",
+        "rtnm": "ROSS FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "O12",
+        "rtnm": "MCKNIGHT FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "O12",
+        "rtnm": "MCKNIGHT FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "O5",
+        "rtnm": "THOMPSON RUN FLYER VIA 279",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "O5",
+        "rtnm": "THOMPSON RUN FLYER VIA 279",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P1",
+        "rtnm": "EAST BUSWAY-ALL STOPS",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P1",
+        "rtnm": "EAST BUSWAY-ALL STOPS",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P10",
+        "rtnm": "ALLEGHENY VALLEY FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P10",
+        "rtnm": "ALLEGHENY VALLEY FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P12",
+        "rtnm": "HOLIDAY PARK FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P12",
+        "rtnm": "HOLIDAY PARK FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P13",
+        "rtnm": "MOUNT ROYAL FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P13",
+        "rtnm": "MOUNT ROYAL FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P16",
+        "rtnm": "PENN HILLS FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P16",
+        "rtnm": "PENN HILLS FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P17",
+        "rtnm": "LINCOLN PARK FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P17",
+        "rtnm": "LINCOLN PARK FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P2",
+        "rtnm": "EAST BUSWAY SHORT",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P2",
+        "rtnm": "EAST BUSWAY SHORT",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P3",
+        "rtnm": "EAST BUSWAY-OAKLAND",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P3",
+        "rtnm": "EAST BUSWAY-OAKLAND",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P67",
+        "rtnm": "MONROEVILLE FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P67",
+        "rtnm": "MONROEVILLE FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P68",
+        "rtnm": "BRADDOCK HILLS FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P68",
+        "rtnm": "BRADDOCK HILLS FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P69",
+        "rtnm": "TRAFFORD FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P69",
+        "rtnm": "TRAFFORD FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P7",
+        "rtnm": "MCKEESPORT FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P7",
+        "rtnm": "MCKEESPORT FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P71",
+        "rtnm": "SWISSVALE FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P71",
+        "rtnm": "SWISSVALE FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P76",
+        "rtnm": "LINCOLN HIGHWAY FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P76",
+        "rtnm": "LINCOLN HIGHWAY FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "P78",
+        "rtnm": "OAKMONT FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "P78",
+        "rtnm": "OAKMONT FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "Y1",
+        "rtnm": "LARGE FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "Y1",
+        "rtnm": "LARGE FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "Y45",
+        "rtnm": "BALDWIN MANOR FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "Y45",
+        "rtnm": "BALDWIN MANOR FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "Y46",
+        "rtnm": "ELIZABETH FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "Y46",
+        "rtnm": "ELIZABETH FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "Y47",
+        "rtnm": "CURRY FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "Y47",
+        "rtnm": "CURRY FLYER",
+        "dir": "OUTBOUND"
+    },
+    {
+        "rt": "Y49",
+        "rtnm": "PROSPECT FLYER",
+        "dir": "INBOUND"
+    },
+    {
+        "rt": "Y49",
+        "rtnm": "PROSPECT FLYER",
+        "dir": "OUTBOUND"
+    }
+]

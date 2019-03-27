@@ -1,0 +1,34 @@
+[
+    {
+        "rt": "38",
+        "rtnm": "GREEN TREE",
+        "rtdir": "INBOUND",
+        "stpid": "4572",
+        "stopnm": "Blvd of the Allies at Post Gazette Bldg",
+        "timstmp": "20170925 12:09"
+    },
+    {
+        "rt": "24",
+        "rtnm": "WEST PARK",
+        "rtdir": "INBOUND",
+        "stpid": "4572",
+        "stopnm": "Blvd of the Allies at Post Gazette Bldg",
+        "timstmp": "20170925 12:10"
+    },
+    {
+        "rt": "22",
+        "rtnm": "MCCOY",
+        "rtdir": "INBOUND",
+        "stpid": "4572",
+        "stopnm": "Blvd of the Allies at Post Gazette Bldg",
+        "timstmp": "20170925 12:01"
+    },
+    {
+        "rt": "20",
+        "rtnm": "KENNEDY",
+        "rtdir": "INBOUND",
+        "stpid": "4572",
+        "stopnm": "Blvd of the Allies at Post Gazette Bldg",
+        "timstmp": "20170925 12:10"
+    }
+]
